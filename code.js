@@ -84,26 +84,3 @@ let charGraph = new Chart(ctx,{
    
 
 })
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
